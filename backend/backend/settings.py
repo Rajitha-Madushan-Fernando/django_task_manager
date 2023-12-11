@@ -107,8 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 #Whitelisting React port
 CORS_ORIGIN_WHITELIST = [
-    'http://localhost:3000',
-    'http://localhost:8000',
+    'http://localhost:3000'
 ]
    
 
